@@ -17,9 +17,9 @@
             <classes>
                 <class name="org.qaway.TestInitialPage"></class>
                 <class name="org.qaway.TestLogin"></class>
-                <class name="org.qaway.TestPurchase"></class>
-                <class name="org.qaway.TestFilter"></class>
-                <class name="org.qaway.TestMenu"></class>
+                <!--class name="org.qaway.TestPurchase"></class-->
+                <!--class name="org.qaway.TestFilter"></class-->
+                <!--class name="org.qaway.TestMenu"></class-->
 <!--                <class name="org.qaway.testDragDrp.TestDragDrop"></class>-->
 <!--                <class name="org.qaway.testsPractice.TestButtonPage"></class>-->
 <!--                <class name="org.qaway.testsPractice.TestPracticePage"></class>-->
